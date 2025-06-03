@@ -12,14 +12,12 @@ git fetch profe
 
 # 2️⃣ Creá y cambiá a la nueva rama local basada en la rama del profe
 # Reemplazá NOMBRE_RAMA por el nombre exacto que tenga la rama (ej: clase_02)
-git checkout -b NOMBRE_RAMA profe/NOMBRE_RAMA
+git checkout -b clase-2 profe/clase_02
 
 # 3️⃣ Subí la rama nueva a tu repo en GitHub para tenerla sincronizada
-git push -u origin NOMBRE_RAMA
+git push -u origin clase-2
 
-```git fetch profe
-git checkout -b clase_02 profe/clase_02
-git push -u origin clase_02```
+ 
 
 | Comando             | Descripción                              |
 | ------------------- | ---------------------------------------- |
